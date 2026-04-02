@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class Main{
     public static void main(String[] args) {
-        Class class = new Class();
-
+        // Class class = new Class();
+        Test test = new Test();
 
         
     }
